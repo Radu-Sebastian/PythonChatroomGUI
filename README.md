@@ -1,0 +1,2 @@
+# PythonChatroomGUI
+Small university project
