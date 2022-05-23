@@ -4,7 +4,7 @@ from tkinter import *
 import tkinter.scrolledtext
 from tkinter import simpledialog
 from tkinter import ttk
-import constants as k
+from PythonChatroomGUI import constants as k
 import time
 import pika
 import os

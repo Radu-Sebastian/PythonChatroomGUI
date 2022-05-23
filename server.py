@@ -1,6 +1,6 @@
 import socket
 import threading
-import constants as k
+from PythonChatroomGUI import constants as k
 import time
 import pika
 import os
